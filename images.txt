@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.9-slim
 gcc:latest
+node:18-alpine
+ubuntu:22.04

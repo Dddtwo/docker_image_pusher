@@ -9,3 +9,5 @@ gcc:latest
 node:18-alpine
 ubuntu:22.04
 mysql:8.0.36
+redis:7
+redis:6

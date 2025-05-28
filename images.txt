@@ -13,4 +13,4 @@ redis:7
 redis:6
 eclipse-temurin:17-jdk
 python:3.12-slim-bookworm
-uv:python3.12-bookworm-s
+ghcr.io/astral-sh/uv:python3.12-bookworm-slim

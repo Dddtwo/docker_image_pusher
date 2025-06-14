@@ -17,3 +17,4 @@ ghcr.io/astral-sh/uv:python3.12-bookworm-slim
 golang:1.24.3-alpine
 gcr.io/distroless/base-debian12
 alpine:latest
+node:22-alpine
